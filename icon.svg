@@ -1,0 +1,23 @@
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="shadeGradient">
+      <stop stop-color="#313831" offset="0%"></stop>
+      <stop stop-color="#4D5944" offset="16.67%"></stop>
+      <stop stop-color="#697A57" offset="33.33%"></stop>
+      <stop stop-color="#869C6A" offset="50%"></stop>
+      <stop stop-color="#A2BD7D" offset="66.67%"></stop>
+      <stop stop-color="#BEDE90" offset="83.33%"></stop>
+      <stop stop-color="#DAFFA3" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <rect fill="#15171E" x="0" y="0" width="400" height="400"></rect>
+  <rect fill="#FF5A34" x="28" y="28" width="74" height="74"></rect>
+  <rect fill="#E5446D" x="118" y="28" width="74" height="74"></rect>
+  <rect fill="#FFD800" x="208" y="28" width="74" height="74"></rect>
+  <rect fill="#F4B9B2" x="298" y="28" width="74" height="74"></rect>
+  <rect fill="#00FFFF" x="28" y="118" width="74" height="74"></rect>
+  <rect fill="#B3B3FF" x="118" y="118" width="74" height="74"></rect>
+  <rect fill="#78E3FD" x="208" y="118" width="74" height="74"></rect>
+  <rect fill="#E5446D" x="298" y="118" width="74" height="74"></rect>
+  <rect fill="url(#shadeGradient)" x="27" y="208" width="344" height="164"></rect>
+</svg>
