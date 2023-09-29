@@ -1,7 +1,11 @@
 # Change Log
 
-## [0.0.1]
+## [1.1.0]
 
 ### Added
 
-- Complete Theme Added
+- Theme Icon.
+
+### Added
+
+- Complete Theme Added.
