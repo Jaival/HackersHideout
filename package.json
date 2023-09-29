@@ -3,9 +3,14 @@
   "displayName": "Hacker's Hideout",
   "description": "A dark theme for dark theme lovers.",
   "version": "1.0.0",
+  "publisher": "JaivalSaija",
+  "repository": {
+    "url": "https://github.com/Jaival/HackersHideout"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
+  "icon": "/icon.png",
   "categories": [
     "Themes"
   ],
